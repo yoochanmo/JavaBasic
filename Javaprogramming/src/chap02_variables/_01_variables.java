@@ -80,6 +80,10 @@ public class _01_variables {
 		System.out.println("boolean 변수 출력");
 		System.out.println(result1);
 		System.out.println(result2);
+		
+		
+		
+		
 	}
 }
 		
