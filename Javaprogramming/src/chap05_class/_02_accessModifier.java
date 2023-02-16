@@ -6,7 +6,7 @@ public class _02_accessModifier extends Minus{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//설계도로 부품을 만들기
+		//설계도로 부품을 만들기(인스턴스화)
 		Minus m = new Minus();
 		
 		//접근 제어자 확인
