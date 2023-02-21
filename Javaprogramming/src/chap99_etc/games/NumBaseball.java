@@ -2,7 +2,7 @@ package chap99_etc.games;
 
 import java.util.Scanner;
 
-public class NumBaseball {
+public class NumBaseball extends GamesClass{
 //1. 필요한 변수들 선언
 private int strike = 0;
 private int ball = 0;
@@ -38,7 +38,7 @@ public void start() {
 	while(true) {
 		//사용자가 다시 입력하기 전에 strike와 ball 0으로 초기화
 		//초기화 안하면 이전 입력된 값의 strike, ball의 값을 가지고있음
-		strike = 0;
+		strike = 0;	
 		ball = 0;
 
 		//사용자 입력 값 3번 받아서 user배열에 담아줌

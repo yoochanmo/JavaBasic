@@ -3,7 +3,7 @@ package chap99_etc.games;
 import java.util.Scanner;
 
 
-public class RockScissPaper {
+public class RockScissPaper extends GamesClass {
 	//몇승 몇무 몇패인지 셀 변수
 	
 	//게임 실행 메소드
